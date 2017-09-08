@@ -12,6 +12,7 @@ hope you like it
 
 Mateusz 
 
-
+PS. in second commit the AOP was added. just simple @Before and @AfterReturning with logging some infos about arguments etc.
 
 PS. project is build without maven - it is because I had some internet connection problem while developing the app and all libraries was downloaded at my friends house and I make reference to them at my local hard drive.
+
